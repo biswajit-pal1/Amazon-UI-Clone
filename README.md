@@ -27,7 +27,3 @@ A visually accurate clone of the Amazon.com homepage built using **HTML** and **
 - 🎁 **Promotional Hero Section**
 - 📃 **Fully Styled Footer**
 - 🌐 **Responsive Layout for Medium Screens**
-
----
-
-## 📁 Folder Structure
