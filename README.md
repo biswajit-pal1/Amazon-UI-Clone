@@ -4,6 +4,12 @@ A visually accurate clone of the Amazon.com homepage built using **HTML** and **
 
 ---
 
+## 🔗 Live Preview
+
+[🔗 View Live](https://biswajit-pal1.github.io/Amazon-UI-Clone/) 
+
+---
+
 ## 📸 Preview
 
 ![Amazon Clone Screenshot](images/screenshot.jpg)
@@ -12,18 +18,20 @@ A visually accurate clone of the Amazon.com homepage built using **HTML** and **
 
 ## 🛠️ Tech Stack
 
-- ✅ HTML5
-- ✅ CSS3
-- ✅ Font Awesome (for icons)
+- ✅ HTML5  
+- ✅ CSS3  
+- ✅ Font Awesome (for icons)  
 - ✅ Flexbox & Responsive Design
 
 ---
 
 ## ✨ Features
 
-- 📌 **Sticky Navigation Bar**
-- 🔍 **Search Bar with Icon**
-- 📦 **Product Grid Layout**
-- 🎁 **Promotional Hero Section**
-- 📃 **Fully Styled Footer**
+- 📌 **Sticky Navigation Bar**  
+- 🔍 **Search Bar with Icon**  
+- 📦 **Product Grid Layout**  
+- 🎁 **Promotional Hero Section**  
+- 📃 **Fully Styled Footer**  
 - 🌐 **Responsive Layout for Medium Screens**
+
+---
